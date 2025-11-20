@@ -277,7 +277,5 @@ if inp == 9:
                 draw_polygon(num_sides, local_size, orientation, local_location, color, border_size)
 
         counter += 1
-else:
-    print("Invalid Input")
 
 turtle.done()
